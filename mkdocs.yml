@@ -2,7 +2,7 @@ site_name: JanusGraph 翻译版(0.3.1)
 site_author: FinSightRD
 
 
-nav:
+page:
 - 首页: index.md
 - I. 介绍: 
   - 1.JanusGraph优势: ./introduction/the_benefits_of_janusgraph.md
